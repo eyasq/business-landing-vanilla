@@ -151,6 +151,12 @@ section {
     font-size: 1.5rem;
     color: #2c3e50;
 }
+.about-figure {
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    margin-bottom: 1rem;
+}
 
 #about-img {
     max-width: 100%;
@@ -159,8 +165,7 @@ section {
     margin-bottom: 1rem;
 }
 .about-img-caption {
-    margin-top: -0.5rem;
-    margin-bottom: 1rem;
+    margin-top: 0.5rem;
     padding: 0.25rem;
     font-size: 0.85rem;
     color: #666;
