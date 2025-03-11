@@ -20,7 +20,6 @@ body {
     color: #333333;
 }
 
-/* Mobile First Navigation */
 nav {
     height: auto;
     display: flex;
@@ -47,7 +46,6 @@ h1, a {
     color: white;
 }
 
-/* Mobile First Section and Form */
 section {
     display: grid;
     place-items: center;
